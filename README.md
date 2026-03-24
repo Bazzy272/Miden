@@ -8,3 +8,4 @@ good privacy
 explorer on miden
 last one 
 good night 
+keep exploring privacy 
