@@ -9,3 +9,4 @@ explorer on miden
 last one 
 good night 
 keep exploring privacy 
+tracking privacy on chain 
