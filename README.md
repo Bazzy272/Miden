@@ -10,4 +10,4 @@ last one
 good night 
 keep exploring privacy 
 tracking privacy on chain 
-miden is the problem 
+miden is the problem
